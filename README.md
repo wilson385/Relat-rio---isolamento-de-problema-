@@ -30,7 +30,7 @@ Limitação de hardware, principalmente a baixa quantidade de memória RAM
 
 ---
 
-## Solução aplicada
+## hello
 
 - Remoção de arquivos desnecessários  
 - Limpeza de arquivos temporários  
