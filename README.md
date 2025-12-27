@@ -18,6 +18,7 @@ do próprio sistema operacional, que não podem ser desativados.
 Limitação de hardware (4 GB de memória RAM).
 
 ## Solução aplicada
+
 - Limpeza de arquivos desnecessários
 - Otimização da inicialização
 - Manutenção dos processos essenciais do Windows
