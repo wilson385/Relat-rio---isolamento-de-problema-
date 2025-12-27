@@ -30,8 +30,7 @@ Limitação de hardware, principalmente a baixa quantidade de memória RAM
 
 ---
 
-## solução-Aplicada
-
+## solução Aplicada
 - Remoção de arquivos desnecessários  
 - Limpeza de arquivos temporários  
 - Limpeza de disco  
