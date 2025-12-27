@@ -24,4 +24,4 @@ Limitação de hardware (4 GB de memória RAM).
 
 ## Aprendizado
 A experiência reforçou a importância de identificar a causa do problema,
-evitando soluções extremas como formatação desnecessária.
+evitando soluções extremas como aplicada desnecessária.
